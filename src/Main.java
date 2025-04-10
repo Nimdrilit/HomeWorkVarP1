@@ -31,6 +31,4 @@ public class Main {
     var friend = friend / 7;
     System.out.println(friend);
 
-
-
 }
