@@ -16,5 +16,6 @@ public class Main {
     var cat = cat + 4;
     System.out.println(cat);
     var paper = paper + 4;
+    System.out.println(paper);
 
 }
