@@ -57,5 +57,4 @@ public class Main {
     var newWorkingTime;
     var newWorkingTime = moreEmploers * 8;
     System.out.println("Если в компании работает " + newWorkingTime + "человек, то всего " + newWorkingTime + "часов работы может быть поделено между сотрудниками.");
-
 }
