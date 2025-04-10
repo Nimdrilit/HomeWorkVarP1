@@ -11,5 +11,10 @@ public class Main {
     var paper;
     var paper = 763789;
     System.out.println(paper);
-    dog = dog + 4
+    var dog = dog + 4;
+    System.out.println(dog);
+    var cat = cat + 4;
+    System.out.println(cat);
+    var paper = paper + 4;
+
 }
